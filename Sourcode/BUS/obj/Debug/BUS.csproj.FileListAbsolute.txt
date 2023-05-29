@@ -1,0 +1,87 @@
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\BUS.dll
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\BUS.pdb
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\DAO.dll
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\DTO.dll
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\DAO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\DTO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\obj\Debug\BUS.dll
+C:\Users\TRANTHANHHAU\Desktop\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\obj\Debug\BUS.pdb
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\BUS.dll
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\BUS.pdb
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\obj\Debug\BUS.dll
+E:\Do an lap trinh ung dung\Bao cao\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\obj\Debug\BUS.pdb
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\BUS.dll
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\BUS.pdb
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\obj\Debug\BUS.dll
+E:\Do an lap trinh ung dung\Quanlykhachsan3lop\BUS\obj\Debug\BUS.pdb
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\BUS\bin\Debug\BUS.dll
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\BUS\bin\Debug\BUS.pdb
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\BUS\bin\Debug\DAO.dll
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\BUS\bin\Debug\DTO.dll
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\BUS\bin\Debug\DAO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\BUS\bin\Debug\DTO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\BUS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\BUS\obj\Debug\BUS.dll
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\BUS\obj\Debug\BUS.pdb
+E:\Do an lap trinh ung dung\Sourcode\BUS\bin\Debug\BUS.dll
+E:\Do an lap trinh ung dung\Sourcode\BUS\bin\Debug\BUS.pdb
+E:\Do an lap trinh ung dung\Sourcode\BUS\bin\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Sourcode\BUS\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Sourcode\BUS\bin\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Sourcode\BUS\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Sourcode\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Sourcode\BUS\obj\Debug\BUS.dll
+E:\Do an lap trinh ung dung\Sourcode\BUS\obj\Debug\BUS.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\BUS\bin\Debug\BUS.dll
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\BUS\bin\Debug\BUS.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\BUS\bin\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\BUS\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\BUS\bin\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\BUS\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\BUS\obj\Debug\BUS.dll
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\BUS\obj\Debug\BUS.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\BUS\bin\Debug\BUS.dll
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\BUS\bin\Debug\BUS.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\BUS\bin\Debug\DAO.dll
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\BUS\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\BUS\bin\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\BUS\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\BUS\obj\Debug\BUS.dll
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\BUS\obj\Debug\BUS.pdb
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\BUS.dll
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\BUS.pdb
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\DAO.dll
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\DTO.dll
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\DAO.pdb
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\DAO.dll.config
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\DTO.pdb
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\obj\Debug\BUS.dll
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\obj\Debug\BUS.pdb
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\BUS.dll
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\BUS.pdb
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\DAO.dll
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\DTO.dll
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\DAO.pdb
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\DAO.dll.config
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\bin\Debug\DTO.pdb
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\obj\Debug\BUS.dll
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,202 @@
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.exe.config
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.exe
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.pdb
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\bin\Debug\BUS.dll
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.dll
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\bin\Debug\DTO.dll
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\bin\Debug\BUS.pdb
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\bin\Debug\DTO.pdb
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormAbout.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormBaoCaoNhanVien.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormBaoCaoVatTu.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormDichVu.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormDoiMatKhau.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormHeThong.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormHoaDon.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormKhachHang.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormLogin.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormMain.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormNhanVien.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhieuDatphong.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhieuThuePhong.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhong.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormVatTu.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.InHoaDon.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.Properties.Resources.resources
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.csproj.GenerateResource.Cache
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.exe
+C:\Users\TRANTHANHHAU\Desktop\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.pdb
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.exe.config
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.exe
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.pdb
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.exe
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.pdb
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\bin\Debug\BUS.dll
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\bin\Debug\BUS.pdb
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormAbout.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormBaoCaoNhanVien.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormBaoCaoVatTu.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormDichVu.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormDoiMatKhau.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormHeThong.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormHoaDon.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormKhachHang.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormLogin.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormMain.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormNhanVien.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhieuDatphong.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhieuThuePhong.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhong.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormVatTu.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.InHoaDon.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.Properties.Resources.resources
+E:\Do an lap trinh ung dung\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.csproj.GenerateResource.Cache
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.exe.config
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.exe
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.exe
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\BUS.dll
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.dll
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\BUS.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormAbout.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormBaoCaoNhanVien.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormBaoCaoVatTu.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormDichVu.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormDoiMatKhau.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormHeThong.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormHoaDon.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormKhachHang.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormLogin.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormMain.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormNhanVien.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhieuDatphong.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhieuThuePhong.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhong.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormVatTu.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.InHoaDon.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.Properties.Resources.resources
+E:\Do an lap trinh ung dung\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.csproj.GenerateResource.Cache
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.exe.config
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.exe
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.exe
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\BUS.dll
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.dll
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DTO.dll
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\BUS.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DTO.pdb
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\ResolveAssemblyReference.cache
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormAbout.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormBaoCaoNhanVien.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormBaoCaoVatTu.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormCRThongKeDatPhong.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormDichVu.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormDoiMatKhau.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormHeThong.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormHoaDon.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormKhachHang.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormLogin.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormMain.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormNhanVien.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhieuDatphong.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhieuThuePhong.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhong.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormThongKeDatPhong.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormVatTu.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.InHoaDon.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.Properties.Resources.resources
+E:\Do an lap trinh ung dung\QLKS\Bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.csproj.GenerateResource.Cache
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.csproj.AssemblyReference.cache
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormAbout.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormBaoCaoNhanVien.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormBaoCaoVatTu.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormCRThongKeDatPhong.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormDichVu.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormDoiMatKhau.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormHeThong.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormHoaDon.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormKhachHang.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormLogin.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormMain.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormNhanVien.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhieuDatphong.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhieuThuePhong.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhong.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormThongKeDatPhong.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormVatTu.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.InHoaDon.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.Properties.Resources.resources
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.csproj.GenerateResource.cache
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.csproj.CoreCompileInputs.cache
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.exe
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.pdb
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.exe.config
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.exe
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.pdb
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\BUS.dll
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\CrystalDecisions.Shared.dll
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.dll
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DTO.dll
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\System.Web.Services.dll
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\BUS.pdb
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.pdb
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.dll.config
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DTO.pdb
+E:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.csproj.CopyComplete
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.exe.config
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.exe
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\Quanlykhachsan3lop.pdb
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\BUS.dll
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\CrystalDecisions.Shared.dll
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.dll
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DTO.dll
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\System.Web.Services.dll
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\BUS.pdb
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.pdb
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DAO.dll.config
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\bin\Debug\DTO.pdb
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.csproj.AssemblyReference.cache
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormAbout.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormBaoCaoNhanVien.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormBaoCaoVatTu.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormCRThongKeDatPhong.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormDichVu.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormDoiMatKhau.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormHeThong.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormHoaDon.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormKhachHang.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormLogin.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormMain.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormNhanVien.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhieuDatphong.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhieuThuePhong.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormPhong.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormThongKeDatPhong.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.FormVatTu.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.InHoaDon.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.Properties.Resources.resources
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.csproj.GenerateResource.cache
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.csproj.CoreCompileInputs.cache
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.csproj.CopyComplete
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.exe
+D:\Làm thuê\quanlykhachsan\[Sharecode.vn] Source code xay dung phan mem quan ly khach san full code + bao cao\Sourcode\Quanlykhachsan3lop\obj\Debug\Quanlykhachsan3lop.pdb
